@@ -2,6 +2,11 @@
 
 This repository contains two projects: **RMIServer** and **RMIClient**, demonstrating the use of Java RMI (Remote Method Invocation) for communication between a client and a server.
 
+## 📽️ Demo Video
+
+[![Java RMI Project Demo](https://img.youtube.com/vi/26gqxZdCt7E/0.jpg)](https://youtu.be/26gqxZdCt7E)
+
+
 ## **RMIServer**
 
 The **RMIServer** project implements a server that exposes two remote services using RMI:
