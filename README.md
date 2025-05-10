@@ -4,7 +4,7 @@ This repository contains two projects: **RMIServer** and **RMIClient**, demonstr
 
 ## 📽️ Demo Video
 
-[![Java RMI Project Demo](https://img.youtube.com/vi/26gqxZdCt7E/0.jpg)](https://youtu.be/26gqxZdCt7E)
+[![Java RMI Project Demo](https://github.com/chamikathereal/Java-RMI/blob/main/Java-RMI.jpg)](https://youtu.be/26gqxZdCt7E)
 
 
 ## **RMIServer**
